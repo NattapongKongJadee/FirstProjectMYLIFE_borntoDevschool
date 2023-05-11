@@ -1,0 +1,2 @@
+# FirstProjectMYLIFE_borntoDevschool
+BasicJavaProgramming and MySQL baiscs
